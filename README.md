@@ -6,7 +6,7 @@ A dummy Angular project filled with commented examples from Todd Motto's [Angula
 What's this for?
 ================
 
-The repository is designed to be a resource/learning aid based off of Todd Motto's [AngularJS styleguide](https://github.com/toddmotto/angularjs-styleguide) that you can pull into your own projects and quickly reference how logic should be written in a dummy project environment. It provides simple examples which have been taken from the styleguide and puts them into a real structure that has been thoroughly commented with remarks made in the guide.
+The repository is designed to be a resource/learning aid based off of Todd Motto's [AngularJS styleguide](https://github.com/toddmotto/angularjs-styleguide) that you can pull into your own projects and quickly reference how logic should be written following the guidelines. It provides simple examples which have been taken from the styleguide and puts them into a real structure that has been thoroughly commented with remarks made in the guide.
 
 ### Information on structure
 
@@ -30,11 +30,11 @@ There are a few things that I wanted to point out that this repo does not accomp
 
 ### Not a working project
 
-At this moment in time the repositories code is just dummy content and mainly just to illustrate the points made in the styleguide. None of it has been hooked up to actually work and it should be seen as more of a quick reference/learning resource within a project environment.
+At this moment in time the repositories code is just dummy content and mainly illustrates the points made in the styleguide. None of it has been hooked up to actually work and it should be seen as more of a quick reference/learning resource rather than a working application.
 
 ### Not all features of the styleguide have been covered.
 
-There is a ton of great content in the styleguide and it was hard to put it all into project examples without the code becoming cluttered and sacrificing readability. My aim was just to capture the majority of the points made within the guide and illustrate them in an easy to use manner. The areas I have covered are as follows:
+There is a ton of great content in the styleguide and it was hard to put it all into project examples without the code becoming cluttered and sacrificing readability. My aim was just to capture the majority of the points made within the guide and show them in an easy to use manner. The areas I have covered are as follows:
 
 - Controllers
 - Directives
@@ -58,6 +58,6 @@ For now though, any extra information can be found on the styleguide so I urge y
 Big thanks to Todd Motto for the amazing styleguide
 ===================================================
 
-There is a vast amount of brilliant content sitting in the guide that this repository has missed out. I urge anyone to check it out and read through it a 1000000 times over because it supplies invaluable information. Any additional things I have missed out in this repo I am sure you will find through the styleguide.
+There is a vast amount of brilliant content sitting in the guide that this repository has missed out. I urge anyone to check it out and read through it a 1000000 times because it supplies invaluable information. Any additional things I have missed out in this repo I am sure you will find through the styleguide.
 
 Such a beautiful piece of work. It brings a single tear of joy every time I read it.
