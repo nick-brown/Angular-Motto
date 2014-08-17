@@ -6,11 +6,13 @@ A dummy Angular project filled with commented examples from Todd Motto's [Angula
 What's this for?
 ================
 
-The repository is designed to be a resource/learning aid based off of Todd Motto's [AngularJS styleguide](https://github.com/toddmotto/angularjs-styleguide) that you can quickly pull into your own projects and quickly reference how logic should be written in a dummy project environment. It provides simple examples which have been taken from the styleguide and puts them into a real structure that has been thoroughly commented with remarks made in the guide.
+The repository is designed to be a resource/learning aid based off of Todd Motto's [AngularJS styleguide](https://github.com/toddmotto/angularjs-styleguide) that you can pull into your own projects and quickly reference how logic should be written in a dummy project environment. It provides simple examples which have been taken from the styleguide and puts them into a real structure that has been thoroughly commented with remarks made in the guide.
 
 ### Information on structure
 
 The 'scripts' folder follows the structure given in the guide for a standard sized project. If you are looking for a large application structure you will most likely use a much more modular approach. You can find more information on that at the bottom of the following article. http://toddmotto.com/opinionated-angular-js-styleguide-for-teams/
+
+This is still very much a work in progess so I am opening it up to anyone who wants to make changes and it can hopefully grow over time.
 
 Using it in your project
 ========================
