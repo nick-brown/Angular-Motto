@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <title>Angular-Motto</title>
+</head>
+<body>
+    <h1>Angular Motto</h1>
+
+    <!--
+        Using the controller as syntax means that we get a variable per controller.
+        This helps aid in nested controller calls because it means that we can avoid
+        any $parent calls.
+    -->
+    <div ng-controller="MainCtrl as main">
+        {{main.someObject}}
+
+        <!--
+            This is an example for increasing performance in newer versions of Angular (v1.3.0-beta.10+).
+            Use the one time binding syntax '::' when it makes sense. This is because binding once removes the
+            $$watchers count after the undefined variable becomes resolved. This frees up resource and improves
+            the speed of the digest loop.
+        -->
+        {{::main.someObject}}
+    </div>
+</body>
+</html>

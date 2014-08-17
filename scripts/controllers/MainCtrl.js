@@ -12,6 +12,8 @@
         // Use it to avoid having to call bind and unnecessary scoping issues.
         var vm = this;
 
+        vm.someObject = 'Some value';
+
         vm.users = [];
         vm.getUsers = function() {
             
