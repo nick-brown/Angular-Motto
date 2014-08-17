@@ -23,6 +23,13 @@
                 vm.users = response;
             });
         }
+
+        // Check the 'app.js' config function to see where this is used and an explanation.
+        vm.resolve = {
+            doSomething: function() {
+                return UserService.doSomething();
+            }            
+        }
     }
 
     // Pass functions into module methods rather than assigning a callback.
