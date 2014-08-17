@@ -34,7 +34,7 @@ At this moment in time the repositories code is just dummy content and mainly ju
 
 ### Not all features of the styleguide have been covered.
 
-- There is a ton of great content in the styleguide and it was hard to put it all into project examples without the code becoming cluttered and sacrificing readability. My aim was just to capture the majority of the points made within the guide and illustrate them in an easy to use manner. The areas I have covered are as follows:
+There is a ton of great content in the styleguide and it was hard to put it all into project examples without the code becoming cluttered and sacrificing readability. My aim was just to capture the majority of the points made within the guide and illustrate them in an easy to use manner. The areas I have covered are as follows:
 
 - Controllers
 - Directives
